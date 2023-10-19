@@ -42,7 +42,7 @@ const app = {
     },
     {
       name: "Bài Ca Đất Phương Nam",
-      singer: "NSUT Trọng Phúc",
+      singer: "NSƯT Trọng Phúc",
       path: "./assets/song/datphuongnam.mp3",
       image: "./assets/img/datphuongnam.jpg",
     },

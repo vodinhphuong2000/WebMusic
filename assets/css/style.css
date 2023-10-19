@@ -254,7 +254,7 @@ box-sizing: border-box;
     opacity: 0.8;
 }
 .footer-list-heading.footer-list-heading-active{
-    background: rgba(128, 128, 128, 0.148)
+    background: linear-gradient( 86.3deg, rgb(63 0 182 / 70%) 3.6%, rgb(185 29 29 / 80%) 87.6% );
 }
 .footer-list__music{
     color: rgb(210, 210, 210);
@@ -265,7 +265,7 @@ box-sizing: border-box;
 
 }
 .footer-list-heading{
-    background: linear-gradient( 86.3deg, rgb(63 0 182 / 70%) 3.6%, rgb(185 29 29 / 80%) 87.6% );    
+    background: rgba(128, 128, 128, 0.148) ;   
     border-radius: 20px;
     cursor: pointer;
 }
